@@ -1,4 +1,4 @@
-export const validName = new RegExp("^[a-zA-Z0-9 ]+$");
+export const validName = new RegExp("^[a-zA-Z ]+$");
 
 export const validUserName = new RegExp("^[a-zA-Z0-9_@.]+$");
 
